@@ -1,4 +1,4 @@
-# VIL-DINO: Video Inpainting Localization with DINO
+# VIL-DINO: Video Inpainting Localization with DINOv2
 Repository containing the codebase for the **Trends and Applications of Computer Vision** course exam.
 
 * **Purpose:** This project was developed strictly for academic evaluation purposes.
